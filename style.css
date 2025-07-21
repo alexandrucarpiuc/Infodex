@@ -2,6 +2,9 @@
     font-family: "Michroma";
     src: url(Fonts/Michroma.ttf);
 }
+* {
+    text-decoration: none;
+}
 html, body {
     background-color: rgba(0, 0, 0, 1);
     padding: 0;
@@ -9,7 +12,6 @@ html, body {
     font-family: Michroma;
 }
 a {
-    text-decoration: none;
     color: rgba(0, 0, 0, 1);
 }
 #linkBar {
